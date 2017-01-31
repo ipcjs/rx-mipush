@@ -1,5 +1,2 @@
-<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service">
-  <intent-filter>
-    <action name="com.xiaomi.mipush.sdk.WAKEUP" />
-  </intent-filter>
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service" class="com.xiaomi.mipush.sdk.PushMessageHandler">
 </prescription>
