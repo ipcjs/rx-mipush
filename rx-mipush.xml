@@ -1,2 +1,3 @@
-<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service" class="com.xiaomi.mipush.sdk.PushMessageHandler" package="com.coolapk.market">
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+              type="service" class="com.xiaomi.mipush.sdk.PushMessageHandler">
 </prescription>
