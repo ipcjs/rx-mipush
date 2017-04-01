@@ -1,3 +1,5 @@
 <prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
-              type="service" class="com.xiaomi.mipush.sdk.PushMessageHandler">
+              type="service"
+              sender="other-app"
+              class="com.xiaomi.mipush.sdk.PushMessageHandler">
 </prescription>
